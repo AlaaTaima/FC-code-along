@@ -3,7 +3,7 @@
 
 ## Description 📰
 
-At this workshop you will create a portfolio web page for you that should include the most topics that you have already learned at the previous sessions of HTML and CSS.
+At this workshop you will create a portfolio web page for you that should includes the most topics that you have already learned at the previous sessions of HTML and CSS.
 
 You will start coding with the lead mentores for a part of the project , then you must complete the rest as an assignment.
 
