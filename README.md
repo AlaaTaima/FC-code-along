@@ -11,7 +11,6 @@ You will start coding with the lead mentores for a part of the project , then yo
 
 ## Guiding Steps 📝
 
-* Go to the workshop [here]("https://github.com/AlaaTaima/FC-code-along").
 * Clone the repository.
 * You should follow git and github rules.
 
